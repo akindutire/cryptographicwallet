@@ -1,0 +1,1 @@
+<?phpnamespace src\client\middleware;use zil\core\interfaces\Middleware;use zil\core\interfaces\Param;class Date implements Middleware{    public function __construct(Param $param)    {        date_default_timezone_set('Africa/Lagos');    }}?>

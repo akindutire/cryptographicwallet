@@ -1,0 +1,1275 @@
+04:58:57 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:00:41 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:06:11 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:07:33 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:12:08 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:00 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:48 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:51 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:53 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:53 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:53 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:53 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:17:53 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 508
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:21:14 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 509
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:22:12 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 509
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:24:36 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:25:54 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:31:22 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:31:56 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mailnaijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:34:07 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mailnaijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:47:33 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:51:59 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:53:45 am ::-->> Array
+(
+    [0] => Error
+ Class 'src\naijasubweb\service\Logger' not found in /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php on line 505  
+0 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+1 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+2 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+3 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+4 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+05:54:58 am ::-->> Array
+(
+    [0] => Swift_Mailer Object
+        (
+            [transport:Swift_Mailer:private] => Swift_SmtpTransport Object
+                (
+                    [handlers:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                            [AUTH] => Swift_Transport_Esmtp_AuthHandler Object
+                                (
+                                    [authenticators:Swift_Transport_Esmtp_AuthHandler:private] => Array
+                                        (
+                                            [0] => Swift_Transport_Esmtp_Auth_CramMd5Authenticator Object
+                                                (
+                                                )
+
+                                            [1] => Swift_Transport_Esmtp_Auth_LoginAuthenticator Object
+                                                (
+                                                )
+
+                                            [2] => Swift_Transport_Esmtp_Auth_PlainAuthenticator Object
+                                                (
+                                                )
+
+                                            [3] => Swift_Transport_Esmtp_Auth_NTLMAuthenticator Object
+                                                (
+                                                )
+
+                                            [4] => Swift_Transport_Esmtp_Auth_XOAuth2Authenticator Object
+                                                (
+                                                )
+
+                                        )
+
+                                    [username:Swift_Transport_Esmtp_AuthHandler:private] => cast@naijasub.growthcapita.com
+                                    [password:Swift_Transport_Esmtp_AuthHandler:private] => ~S0)As-KJ0b#
+                                    [auth_mode:Swift_Transport_Esmtp_AuthHandler:private] => 
+                                    [esmtpParams:Swift_Transport_Esmtp_AuthHandler:private] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [capabilities:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                        )
+
+                    [params:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                            [protocol] => 
+                            [host] => mail.naijasub.growthcapita.com
+                            [port] => 587
+                            [timeout] => 30
+                            [blocking] => 1
+                            [tls] => 
+                            [type] => 1
+                            [stream_context_options] => Array
+                                (
+                                )
+
+                        )
+
+                    [buffer:protected] => Swift_Transport_StreamBuffer Object
+                        (
+                            [stream:Swift_Transport_StreamBuffer:private] => 
+                            [in:Swift_Transport_StreamBuffer:private] => 
+                            [out:Swift_Transport_StreamBuffer:private] => 
+                            [params:Swift_Transport_StreamBuffer:private] => Array
+                                (
+                                )
+
+                            [replacementFactory:Swift_Transport_StreamBuffer:private] => Swift_StreamFilters_StringReplacementFilterFactory Object
+                                (
+                                    [filters:Swift_StreamFilters_StringReplacementFilterFactory:private] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [translations:Swift_Transport_StreamBuffer:private] => Array
+                                (
+                                )
+
+                            [sequence:protected] => 0
+                            [filters:Swift_ByteStream_AbstractFilterableInputStream:private] => Array
+                                (
+                                )
+
+                            [writeBuffer:Swift_ByteStream_AbstractFilterableInputStream:private] => 
+                            [mirrors:Swift_ByteStream_AbstractFilterableInputStream:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [started:protected] => 
+                    [domain:protected] => naijasub.growthcapita.com
+                    [eventDispatcher:protected] => Swift_Events_SimpleEventDispatcher Object
+                        (
+                            [eventMap:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                    [Swift_Events_CommandEvent] => Swift_Events_CommandListener
+                                    [Swift_Events_ResponseEvent] => Swift_Events_ResponseListener
+                                    [Swift_Events_SendEvent] => Swift_Events_SendListener
+                                    [Swift_Events_TransportChangeEvent] => Swift_Events_TransportChangeListener
+                                    [Swift_Events_TransportExceptionEvent] => Swift_Events_TransportExceptionListener
+                                )
+
+                            [listeners:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                )
+
+                            [bubbleQueue:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [addressEncoder:protected] => Swift_AddressEncoder_IdnAddressEncoder Object
+                        (
+                        )
+
+                    [pipelining:protected] => 
+                    [pipeline:protected] => Array
+                        (
+                        )
+
+                    [sourceIp:protected] => 
+                )
+
+        )
+
+)
+
+05:54:58 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 514
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:24:11 am ::-->> Array
+(
+    [0] => Swift_Mailer Object
+        (
+            [transport:Swift_Mailer:private] => Swift_SmtpTransport Object
+                (
+                    [handlers:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                            [AUTH] => Swift_Transport_Esmtp_AuthHandler Object
+                                (
+                                    [authenticators:Swift_Transport_Esmtp_AuthHandler:private] => Array
+                                        (
+                                            [0] => Swift_Transport_Esmtp_Auth_CramMd5Authenticator Object
+                                                (
+                                                )
+
+                                            [1] => Swift_Transport_Esmtp_Auth_LoginAuthenticator Object
+                                                (
+                                                )
+
+                                            [2] => Swift_Transport_Esmtp_Auth_PlainAuthenticator Object
+                                                (
+                                                )
+
+                                            [3] => Swift_Transport_Esmtp_Auth_NTLMAuthenticator Object
+                                                (
+                                                )
+
+                                            [4] => Swift_Transport_Esmtp_Auth_XOAuth2Authenticator Object
+                                                (
+                                                )
+
+                                        )
+
+                                    [username:Swift_Transport_Esmtp_AuthHandler:private] => cast@naijasub.growthcapita.com
+                                    [password:Swift_Transport_Esmtp_AuthHandler:private] => ~S0)As-KJ0b#
+                                    [auth_mode:Swift_Transport_Esmtp_AuthHandler:private] => 
+                                    [esmtpParams:Swift_Transport_Esmtp_AuthHandler:private] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [capabilities:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                        )
+
+                    [params:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                            [protocol] => 
+                            [host] => mail.naijasub.growthcapita.com
+                            [port] => 587
+                            [timeout] => 30
+                            [blocking] => 1
+                            [tls] => 
+                            [type] => 1
+                            [stream_context_options] => Array
+                                (
+                                )
+
+                        )
+
+                    [buffer:protected] => Swift_Transport_StreamBuffer Object
+                        (
+                            [stream:Swift_Transport_StreamBuffer:private] => 
+                            [in:Swift_Transport_StreamBuffer:private] => 
+                            [out:Swift_Transport_StreamBuffer:private] => 
+                            [params:Swift_Transport_StreamBuffer:private] => Array
+                                (
+                                )
+
+                            [replacementFactory:Swift_Transport_StreamBuffer:private] => Swift_StreamFilters_StringReplacementFilterFactory Object
+                                (
+                                    [filters:Swift_StreamFilters_StringReplacementFilterFactory:private] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [translations:Swift_Transport_StreamBuffer:private] => Array
+                                (
+                                )
+
+                            [sequence:protected] => 0
+                            [filters:Swift_ByteStream_AbstractFilterableInputStream:private] => Array
+                                (
+                                )
+
+                            [writeBuffer:Swift_ByteStream_AbstractFilterableInputStream:private] => 
+                            [mirrors:Swift_ByteStream_AbstractFilterableInputStream:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [started:protected] => 
+                    [domain:protected] => naijasub.growthcapita.com
+                    [eventDispatcher:protected] => Swift_Events_SimpleEventDispatcher Object
+                        (
+                            [eventMap:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                    [Swift_Events_CommandEvent] => Swift_Events_CommandListener
+                                    [Swift_Events_ResponseEvent] => Swift_Events_ResponseListener
+                                    [Swift_Events_SendEvent] => Swift_Events_SendListener
+                                    [Swift_Events_TransportChangeEvent] => Swift_Events_TransportChangeListener
+                                    [Swift_Events_TransportExceptionEvent] => Swift_Events_TransportExceptionListener
+                                )
+
+                            [listeners:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                )
+
+                            [bubbleQueue:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [addressEncoder:protected] => Swift_AddressEncoder_IdnAddressEncoder Object
+                        (
+                        )
+
+                    [pipelining:protected] => 
+                    [pipeline:protected] => Array
+                        (
+                        )
+
+                    [sourceIp:protected] => 
+                )
+
+        )
+
+)
+
+08:24:11 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 514
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:25:25 am ::-->> Array
+(
+    [0] => Swift_Mailer Object
+        (
+            [transport:Swift_Mailer:private] => Swift_SmtpTransport Object
+                (
+                    [handlers:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                            [AUTH] => Swift_Transport_Esmtp_AuthHandler Object
+                                (
+                                    [authenticators:Swift_Transport_Esmtp_AuthHandler:private] => Array
+                                        (
+                                            [0] => Swift_Transport_Esmtp_Auth_CramMd5Authenticator Object
+                                                (
+                                                )
+
+                                            [1] => Swift_Transport_Esmtp_Auth_LoginAuthenticator Object
+                                                (
+                                                )
+
+                                            [2] => Swift_Transport_Esmtp_Auth_PlainAuthenticator Object
+                                                (
+                                                )
+
+                                            [3] => Swift_Transport_Esmtp_Auth_NTLMAuthenticator Object
+                                                (
+                                                )
+
+                                            [4] => Swift_Transport_Esmtp_Auth_XOAuth2Authenticator Object
+                                                (
+                                                )
+
+                                        )
+
+                                    [username:Swift_Transport_Esmtp_AuthHandler:private] => cast@naijasub.growthcapita.com
+                                    [password:Swift_Transport_Esmtp_AuthHandler:private] => ~S0)As-KJ0b#
+                                    [auth_mode:Swift_Transport_Esmtp_AuthHandler:private] => 
+                                    [esmtpParams:Swift_Transport_Esmtp_AuthHandler:private] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                    [capabilities:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                        )
+
+                    [params:Swift_Transport_EsmtpTransport:private] => Array
+                        (
+                            [protocol] => 
+                            [host] => mail.naijasub.growthcapita.com
+                            [port] => 587
+                            [timeout] => 30
+                            [blocking] => 1
+                            [tls] => 
+                            [type] => 1
+                            [stream_context_options] => Array
+                                (
+                                )
+
+                        )
+
+                    [buffer:protected] => Swift_Transport_StreamBuffer Object
+                        (
+                            [stream:Swift_Transport_StreamBuffer:private] => 
+                            [in:Swift_Transport_StreamBuffer:private] => 
+                            [out:Swift_Transport_StreamBuffer:private] => 
+                            [params:Swift_Transport_StreamBuffer:private] => Array
+                                (
+                                )
+
+                            [replacementFactory:Swift_Transport_StreamBuffer:private] => Swift_StreamFilters_StringReplacementFilterFactory Object
+                                (
+                                    [filters:Swift_StreamFilters_StringReplacementFilterFactory:private] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [translations:Swift_Transport_StreamBuffer:private] => Array
+                                (
+                                )
+
+                            [sequence:protected] => 0
+                            [filters:Swift_ByteStream_AbstractFilterableInputStream:private] => Array
+                                (
+                                )
+
+                            [writeBuffer:Swift_ByteStream_AbstractFilterableInputStream:private] => 
+                            [mirrors:Swift_ByteStream_AbstractFilterableInputStream:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [started:protected] => 
+                    [domain:protected] => naijasub.growthcapita.com
+                    [eventDispatcher:protected] => Swift_Events_SimpleEventDispatcher Object
+                        (
+                            [eventMap:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                    [Swift_Events_CommandEvent] => Swift_Events_CommandListener
+                                    [Swift_Events_ResponseEvent] => Swift_Events_ResponseListener
+                                    [Swift_Events_SendEvent] => Swift_Events_SendListener
+                                    [Swift_Events_TransportChangeEvent] => Swift_Events_TransportChangeListener
+                                    [Swift_Events_TransportExceptionEvent] => Swift_Events_TransportExceptionListener
+                                )
+
+                            [listeners:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                )
+
+                            [bubbleQueue:Swift_Events_SimpleEventDispatcher:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [addressEncoder:protected] => Swift_AddressEncoder_IdnAddressEncoder Object
+                        (
+                        )
+
+                    [pipelining:protected] => 
+                    [pipeline:protected] => Array
+                        (
+                        )
+
+                    [sourceIp:protected] => 
+                )
+
+        )
+
+)
+
+08:25:25 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.naijasub.growthcapita.com [php_network_getaddresses: getaddrinfo failed: Name or service not known #0] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 514
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:32:07 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:33:23 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:36:42 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:37:12 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:38:03 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:40:27 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:40:34 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:42:26 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host mail.growthcapita.com [Connection refused #111] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+08:46:51 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection to growthcapita.com:465 Timed Out in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 473  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::getFullResponse() on line 358
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::readGreeting() on line 147
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 511
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+

@@ -1,0 +1,300 @@
+04:25:08 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:26:20 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:26:57 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:28:45 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:30:19 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:31:16 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:31:21 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:31:23 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:33:52 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:38:01 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:40:27 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+
+04:40:30 am ::-->> Array
+(
+    [0] => Swift_TransportException
+ Connection could not be established with host smtp.gmail.com [Network is unreachable #101] in /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php on line 269  
+0 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php
+ Function >>> Swift_Transport_StreamBuffer::establishSocketConnection() on line 58
+1 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php
+ Function >>> Swift_Transport_StreamBuffer::initialize() on line 143
+2 /home/geekkkma/naijasub.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php
+ Function >>> Swift_Transport_AbstractSmtpTransport::start() on line 65
+3 /home/geekkkma/naijasub.com/src/naijasubweb/service/MailService.php
+ Function >>> Swift_Mailer::send() on line 576
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/UserController.php
+ Function >>> src\naijasubweb\service\MailService::sendBroadcastMail() on line 105
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\UserController::SendMailToAllMailingList() on line 219
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 165
+8 /home/geekkkma/naijasub.com/index.php
+ Function >>> zil\App::start() on line 34
+
+)
+

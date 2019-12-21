@@ -1,0 +1,136 @@
+10:14:49 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ifrom' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+10:15:01 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ifrom' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+10:16:22 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ifrom' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+10:16:29 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ifrom' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+10:21:01 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ifrom' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+10:24:02 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ifrom' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+10:30:47 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'from_address' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+10:31:05 am ::-->> PDOException
+ SQLSTATE[42S22]: Column not found: 1054 Unknown column 'from_address' in 'field list' in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 156  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 156
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::read() on line 203
+2 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\naijasubweb\model\SalesPoint::get() on line 383
+3 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmAirtimeTradeDueSelling() on line 173
+4 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+5 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+6 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+

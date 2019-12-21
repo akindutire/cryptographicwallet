@@ -1,0 +1,15 @@
+{
+	"autoload": {
+		"psr-4": {
+			"src\\": "src"
+		}
+	},
+
+	"require": {
+		"nesbot/carbon": "^2.13",
+      "ext-curl": "*",
+      "ext-json": "*",
+      "ext-sodium": "*",
+		"swiftmailer/swiftmailer": "^6.0"
+    }
+}

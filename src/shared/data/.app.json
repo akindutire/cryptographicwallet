@@ -1,0 +1,21 @@
+{
+    "currentApp": "",
+    "defaultApp": "client",
+    "apps": {
+        "client": {
+            "name": "client",
+            "trial": 0,
+            "prod": false
+        },
+        "adminhub": {
+            "name": "adminhub",
+            "trial": 0,
+            "prod": false
+        },
+        "dark": {
+            "name": "dark",
+            "trial": 0,
+            "prod": false
+        }
+    }
+}

@@ -1,0 +1,25 @@
+08:06:37 am ::-->> Array
+(
+    [0] => PDOException
+ SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'checksum' cannot be null in /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php on line 80  
+0 /home/geekkkma/naijasub.com/System/zil/factory/buildQuery.php
+ Function >>> PDOStatement::execute() on line 80
+1 /home/geekkkma/naijasub.com/System/zil/factory/model.php
+ Function >>> zil\factory\BuildQuery::create() on line 71
+2 /home/geekkkma/naijasub.com/src/naijasubweb/model/Transaction.php
+ Function >>> src\naijasubweb\model\Transaction::create() on line 405
+3 /home/geekkkma/naijasub.com/src/adminhub/model/CashoutRequest.php
+ Function >>> src\naijasubweb\model\Transaction::addTransferTrans() on line 68
+4 /home/geekkkma/naijasub.com/src/adminhub/controller/api/TransactionController.php
+ Function >>> src\adminhub\model\CashoutRequest::confirmCashoutAsPaid() on line 306
+5 /home/geekkkma/naijasub.com/System/zil/core/server/response.php
+ Function >>> src\adminhub\controller\api\TransactionController::ConfirmPayout() on line 173
+6 /home/geekkkma/naijasub.com/System/zil/core/server/router.php
+ Function >>> zil\core\server\Response::fromHttp() on line 19
+7 /home/geekkkma/naijasub.com/System/zil/main.php
+ Function >>> zil\core\server\Router::Route() on line 125
+8 /home/geekkkma/naijasub.com/adminhub/index.php
+ Function >>> zil\App::start() on line 24
+
+)
+

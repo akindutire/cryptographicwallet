@@ -1,0 +1,85 @@
+{
+    "bill" : {
+        "snap" : {
+            "startimes" : {
+                "0" : {
+                    "code" : "900",
+					"currency" : "NGN",
+					"isAddon" : false,
+					"name" : "NOVA",
+                    "topup_currency" : "NGN",
+                    "price" : 900
+                },
+                "1" : {
+                    "code" : "1300",
+					"currency" : "NGN",
+					"isAddon" : false,
+					"name" : "BASIC",
+                    "topup_currency" : "NGN",
+                    "price" : 1300
+                },
+                "2" : {
+                    "code" : "1900",
+					"currency" : "NGN",
+					"isAddon" : false,
+					"name" : "SMART",
+                    "topup_currency" : "NGN",
+                    "price" : 1900
+                },
+                "3" : {
+                    "code" : "2600",
+					"currency" : "NGN",
+					"isAddon" : false,
+					"name" : "CLASSIC",
+                    "topup_currency" : "NGN",
+                    "price" : 2600
+                },
+                "4" : {
+                    "code" : "3800",
+					"currency" : "NGN",
+					"isAddon" : false,
+					"name" : "SUPER",
+                    "topup_currency" : "NGN",
+                    "price" : 3800
+                }
+            }
+            
+        },
+        "service_charge" : {
+            "waec" : 52.52
+        }
+    },
+
+    "membership_rewards" : {
+        "STARTER" : {
+            "discount" : {
+                "data" : 0.00,
+                "airtime" : 0.00,
+                "tv" : 0.00
+            },
+            "referral_bonus_rate" : {
+                "data" : 0.00
+            }
+        },
+        "RESELLER" : {
+            "discount" : {
+                "data" : 1.50,
+                "airtime" : 0.00,
+                "tv" : 0.00
+            },
+            "referral_bonus_rate" : {
+                "data" : 1.50
+            }
+        },
+        "DEALER" : {
+            "discount" : {
+                "data" : 2.00,
+                "airtime" : 0.50,
+                "tv" : 0.50
+            },
+            "referral_bonus_rate" : {
+                "data" : 2.00
+            }
+        }
+    }
+}
